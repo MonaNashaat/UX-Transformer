@@ -6,15 +6,15 @@ This project implements a deep multimodal framework for evaluating website usabi
 
 usability_framework/
 <br/>├── models/
-│   ├── vision_branch.py
-│   ├── behavioral_branch.py
-│   ├── textual_branch.py
-│   ├── fusion_encoder.py
-│   └── usability_framework.py
-├── train.py
-├── utils.py
-├── config.py
-├── README.md
+<br/>│   ├── vision_branch.py
+<br/>│   ├── behavioral_branch.py
+<br/>│   ├── textual_branch.py
+<br/>│   ├── fusion_encoder.py
+<br/>│   └── usability_framework.py
+<br/>├── train.py
+<br/>├── utils.py
+<br/>├── config.py
+<br/>├── README.md
 
 ## Architecture Overview
 
