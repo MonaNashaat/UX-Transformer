@@ -34,7 +34,7 @@ The following diagram illustrates the structure of the framework:
 
 ```bash
 python train.py
-
+```
 Requirements
 	•	torch
 	•	torchvision
