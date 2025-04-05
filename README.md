@@ -5,7 +5,7 @@ This project implements a deep multimodal framework for evaluating website usabi
 ## Project Structure
 
 usability_framework/
-├── models/
+<br/>├── models/
 │   ├── vision_branch.py
 │   ├── behavioral_branch.py
 │   ├── textual_branch.py
