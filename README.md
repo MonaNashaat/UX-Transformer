@@ -3,6 +3,7 @@
 This project implements a deep multimodal framework for evaluating website usability through visual, behavioral, and textual inputs.
 
 ## Project Structure
+
 usability_framework/
 ├── models/
 │   ├── vision_branch.py
@@ -16,10 +17,6 @@ usability_framework/
 ├── README.md
 
 ## Architecture Overview
-
-The following diagram illustrates the structure of the framework:
-
-![Usability Framework Flowchart](A_flowchart_diagram_in_the_image_illustrates_a_usa.png)
 
 - Visual Branch: Processes UI screenshots via Vision Transformer (ViT)
 - Behavioral Branch: Models user interaction sequences via Temporal Transformer
@@ -41,5 +38,6 @@ Requirements
 	•	transformers
 
 Install dependencies:
-
+```bash
 pip install torch torchvision transformers
+```
